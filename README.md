@@ -6,4 +6,4 @@
 
 ![image info](graphic_elevation.jpg)
 
-![alt text](https://github.com/[gmsmoreno]/[topographic-dataset]/blob/[main]/image.jpg?raw=true)
+![alt text](https://github.com/[gmsmoreno]/[topographic-dataset]/blob/[main]/graphic_elevation.jpg?raw=true)
