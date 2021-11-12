@@ -4,4 +4,4 @@
 
 # Altimetric Quota Elevation
 
-![image info](image/graphic_elevation.jpg)
+![image info](graphic_elevation.jpg)
