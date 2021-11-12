@@ -4,4 +4,4 @@
 
 # Altimetric Quota Elevation
 
-![image info](.\GitHub\topographic-dataset\graphic_elevation.jpg)
+![image info](topographic-dataset\graphic_elevation.jpg)
