@@ -4,4 +4,4 @@
 
 # Altimetric Quota Elevation
 
-![alt text](graphic_elevation.jpg "Altimetric Quota Elevation")
+![image info](.\GitHub\topographic-dataset\graphic_elevation.jpg)
