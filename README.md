@@ -5,6 +5,5 @@
 # Altimetric Quota Elevation
 
 
-![alt text](image.jpg?raw=true)
 
-![alt text](http://url/to/graphic_elevation.png)
+![plot](./topographic-dataset/graphic_elevation.JPG)
